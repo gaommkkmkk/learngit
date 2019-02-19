@@ -19,3 +19,11 @@ ggsgsgsgsgs
 
 
 这是对于git stash的练习
+
+
+
+
+
+
+
+这是git 第二仓库
