@@ -18,4 +18,5 @@ ggsgsgsgsgs
 这个分支真的很牛掰
 
 
-guanyu git stash
+这是对于git stash的练习
+
